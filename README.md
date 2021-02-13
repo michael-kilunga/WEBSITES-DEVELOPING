@@ -1,2 +1,2 @@
 # michael-kilunga/WEBSITES-DEVELOPING
-#        view contents inside
+#        To View Contents Inside Clik The Icon Above Labeled "view on github"
